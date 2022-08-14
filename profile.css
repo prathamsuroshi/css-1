@@ -1,0 +1,96 @@
+ 
+body{
+    background-image: linear-gradient(to right, rgb(34, 33, 33) ,rgb(100, 15, 15));
+  }
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #457b9d;
+}
+ 
+h2{
+    color: #006d77;
+}
+ 
+img{
+    border-radius: 50px ;  
+}
+ 
+a{
+    color:#f2e9e4;
+}
+ 
+audio::-webkit-media-controls-panel{
+    background-image: linear-gradient(to right, #e09f3e, rgb(0, 200, 255));
+}
+ 
+.title-1{
+    position: relative;
+    margin-left: 500px;
+}
+ 
+a:hover{
+    color:rgb(22, 206, 28);
+}
+ 
+a:active{
+    color: darkturquoise;
+}
+ 
+div.about{
+    text-indent: 50px
+}
+ 
+img{
+    position:relative;
+    top:70px;
+    left:150px;
+   
+}
+.personal-detail{
+    color:antiquewhite;
+    font-size: large;
+    position: relative;
+    left:500px;
+    bottom: 170px;
+   width: 600px;
+   height :160px;
+}
+ 
+.video{
+    position: relative;
+    left:900px;
+    bottom: 320px;
+    width: 0%;
+   height :10px;
+}
+ 
+h3.title{
+    position: relative;
+    left: 15px;
+    color:#7c3fa7;
+    width:100px;
+}
+ 
+.list-1{
+    color: antiquewhite;
+    position:relative;
+    left:150px;
+    bottom:35px;
+    width:550px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+ 
+.skills {
+    color:antiquewhite;
+}
+ 
+#links{
+    position:absolute;
+    left:80%;
+    top:10px;
+}
+ 
+#A-me::first-letter{
+    font-size:200%;
+}
